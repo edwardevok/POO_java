@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Circulo
+comment0.text=\r\n\ La\ clase\ Circulo\ contiene\ el\ radio\ de\ un\ circulo\r\n\ \r\n\ @author\ (Eduardo\ Lopez)\ \r\n\ @author(Joan\ Mauri)\r\n\ @version\ (19/10/2025)\r\n
+comment1.params=p_origen\ p_radio
+comment1.target=Circulo(Punto,\ double)
+comment1.text=\r\n\ Circulo\ Constructor\ permite\ instanciar\ un\ Circulo\r\n\r\n\ @param\ p_origen\ Un\ par\u00E1metro\r\n\ @param\ p_radio\ Un\ par\u00E1metro\r\n
+comment2.params=p_radio
+comment2.target=void\ setRadio(double)
+comment3.params=
+comment3.target=double\ getRadio()
+comment4.params=
+comment4.target=double\ superficie()
+comment4.text=\r\n\ M\u00E9todo\ superficie\ calcula\ la\ superficie\ de\ un\ circulo\r\n\r\n\ @return\ superficie\r\n
+comment5.params=
+comment5.target=java.lang.String\ nombreFigura()
+numComments=6

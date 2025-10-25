@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Caba\u00F1a
+comment1.params=p_nombre\ p_precio\ p_dias\ p_servicios\ p_NroHabitaciones
+comment1.target=Caba\u00F1a(java.lang.String,\ double,\ int,\ java.util.ArrayList,\ int)
+comment1.text=\r\n\ Caba\u00F1a\ Constructor\ permite\ instanciar\ una\ caba\u00F1a\r\n\r\n\ @param\ p_nombre\ nombre\ de\ la\ caba\u00F1a\r\n\ @param\ p_precio\ tarifa\ fija\r\n\ @param\ p_dias\ cantidad\ de\ dias\ a\ alojarse\r\n\ @param\ p_servicios\ coleccion\ de\ servicios\r\n\ @param\ p_NroHabitaciones\ numero\ de\ habitaciones\ de\ la\ caba\u00F1a\r\n
+comment2.params=p_NroHabitaciones
+comment2.target=void\ setNroHabitacion(int)
+comment3.params=
+comment3.target=int\ getNroHabitacion()
+comment4.params=
+comment4.target=double\ costo()
+comment4.text=\r\n\ M\u00E9todo\ costo\ calcula\ el\ costo\ total\ de\ la\ habitacion\ segun\ el\ numero\ de\ habitaciones\ y\ los\ dias\ a\ alojarse\r\n\r\n\ @return\ total\ de\ estadia\r\n
+comment5.params=
+comment5.target=void\ liquidar()
+comment5.text=\r\n\ M\u00E9todo\ liquidar\ muestra\ la\ liquidacion\ del\ la\ habitacion\ con\ sus\ totales\ y\ los\ servicios\r\n\r\n
+comment6.params=p_alojamiento
+comment6.target=int\ contar(java.lang.String)
+comment6.text=\r\n\ M\u00E9todo\ contar\ permite\ contar\ cuantas\ caba\u00F1as\ hay\r\n\r\n\ @param\ p_alojamiento\ tipo\ de\ alojamiento\r\n\ @return\ 1\ si\ coincide,\ 0\ si\ n\u00F3.\r\n
+numComments=7

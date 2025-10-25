@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=FiguraGeometrica
+comment0.text=\r\n\ La\ clase\ FiguraGeometrica\ es\ una\ clase\ abstracta\ que\ contiene\ la\ ubicacion\ en\ el\ eje\ x\ e\ y\ de\ cualquier\ figura\ geometrica\r\n\ extiendan\ de\ ella\r\n\ @author(Joan\ Mauri,\ Lopez\ Eduardo)\r\n\ @version(18/10/2025)\r\n
+comment1.params=p_origen
+comment1.target=FiguraGeometrica(Punto)
+comment1.text=\r\n\ FiguraGeometrica\ Constructor\ que\ indica\ la\ estructura\ que\ deben\ tener\ las\ clases\ que\ se\ extienden\ de\ la\ clase\r\n\r\n\ @param\ p_origen\ punto\ de\ origen\ de\ la\ figura\r\n
+comment2.params=p_origen
+comment2.target=void\ setOrigen(Punto)
+comment3.params=
+comment3.target=Punto\ getOrigen()
+comment4.params=
+comment4.target=java.lang.String\ nombreFigura()
+comment4.text=\r\n\ M\u00E9todo\ abstracto\ que\ devuelve\ un\ string\ con\ el\ nombre\ de\ la\ figura\r\n\r\n\ @return\ string\ con\ el\ nombre\ de\ la\ figura\r\n
+comment5.params=
+comment5.target=double\ superficie()
+comment5.text=\r\n\ M\u00E9todo\ superficie\ que\ calcula\ la\ superficie\ de\ la\ figura\r\n\r\n\ @return\ superficie\ de\ la\ figura\r\n
+comment6.params=
+comment6.target=void\ mostrarSuperficie()
+comment6.text=\r\n\ M\u00E9todo\ mostrarSuperficie\ muestra\ la\ superficie\ de\ la\ figura\r\n\r\n
+numComments=7

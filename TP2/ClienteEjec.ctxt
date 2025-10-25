@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=ClienteEjec
+comment0.text=\r\n\ Clase\ ejecutable\ de\ la\ clase\ Cliente\r\n\ @author\ (Eduardo\ Lopez)\r\n\ @author(Joan\ Mauri)\r\n\ @version\ (22/08/2025)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

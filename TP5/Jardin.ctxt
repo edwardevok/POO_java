@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=Jardin
+comment1.params=p_nombre\ p_figuras
+comment1.target=Jardin(java.lang.String,\ java.util.ArrayList)
+comment1.text=\r\n\ Jardin\ Constructor\ que\ permite\ instanciar\ jardines\r\n\r\n\ @param\ p_nombre\ nombre\ del\ jardin\r\n\ @param\ p_figuras\ coleccion\ de\ figuras\ geometricas\r\n
+comment2.params=p_nombre
+comment2.target=void\ setNombre(java.lang.String)
+comment3.params=p_figuras
+comment3.target=void\ setFiguras(java.util.ArrayList)
+comment4.params=
+comment4.target=java.lang.String\ getNombre()
+comment5.params=
+comment5.target=java.util.ArrayList\ getFiguras()
+comment6.params=
+comment6.target=double\ cuantosMetros()
+comment6.text=\r\n\ M\u00E9todo\ cuantosMetros\ calcula\ cuantos\ metros\ totales\ hay\ que\ pintar\ de\ figuras\ sumando\ todas\ las\ superficies\ de\ las\ mismas\r\n\r\n\ @return\ total\ de\ metros\r\n
+comment7.params=
+comment7.target=double\ cuantosLitros()
+comment7.text=\r\n\ M\u00E9todo\ cuantosLitros\ calcula\ cuantos\ litros\ de\ pintura\ se\ necesitar\u00E1n\ para\ una\ determinada\ cantidad\ de\ metros\r\n\r\n\ @return\ total\ de\ litros\r\n
+comment8.params=
+comment8.target=int\ cuantasLatas()
+comment8.text=\r\n\ M\u00E9todo\ cuantasLatas\ calcula\ cuantas\ latas\ de\ pintura\ se\ necesitar\u00E1n\ para\ una\ determinada\ cantidad\ de\ litros\r\n\r\n\ @return\ total\ de\ latas\r\n
+comment9.params=
+comment9.target=void\ detalleFiguras()
+comment9.text=\r\n\ M\u00E9todo\ detalleFiguras\ muestra\ el\ detalle\ de\ las\ figuras\ a\ pintar,\ su\ superficie,\ el\ total\ de\ metros,\ litros\ y\ latas\ de\ pintura\r\n\ que\ se\ necesitan\ para\ pintar\r\n\r\n
+numComments=10

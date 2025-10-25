@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Individuo
+comment1.params=p_nombre\ p_fecha\ p_persona
+comment1.target=Individuo(java.lang.String,\ java.util.Calendar,\ Persona)
+comment1.text=\r\n\ Individuo\ Constructor\r\n\r\n\ @param\ p_nombre\ nombre\ del\ individuo\r\n\ @param\ p_fecha\ fecha\ de\ visita\r\n\ @param\ p_persona\ la\ persona\ que\ visita\ el\ zoologico\r\n
+comment2.params=p_persona
+comment2.target=void\ setPersona(Persona)
+comment3.params=
+comment3.target=Persona\ getPersona()
+comment4.params=
+comment4.target=java.lang.String\ tipoVisitante()
+comment4.text=\r\n\ M\u00E9todo\ tipoVisitante\ muestra\ el\ tipo\ de\ visitante\ que\ visita\ el\ zoologico\r\n\r\n\ @return\ string\ con\ el\ tipo\ de\ visitante\r\n
+comment5.params=
+comment5.target=void\ mostrar()
+comment5.text=\r\n\ M\u00E9todo\ mostrar\ los\ datos\ de\ la\ persona\r\n\r\n
+comment6.params=
+comment6.target=java.util.HashSet\ listarPersonas()
+comment6.text=\r\n\ M\u00E9todo\ listarPersonas\ devuelve\ una\ coleccion\ con\ el\ invidivuo\r\n\r\n\ @return\ coleccion\ de\ personas\r\n
+comment7.params=p_fecha\ p_visitante
+comment7.target=void\ listarPorFecha(java.util.Calendar,\ java.lang.String)
+comment7.text=\r\n\ M\u00E9todo\ listarPorFecha\ muestra\ los\ idividuos\ que\ visitaron\ el\ zoologico\ en\ una\ fecha\ determinada\r\n\r\n\ @param\ p_fecha\ fecha\r\n\ @param\ p_visitante\ tipo\ de\ visitante\r\n
+comment8.params=
+comment8.target=double\ entrada()
+comment8.text=\r\n\ M\u00E9todo\ entrada\ indica\ el\ precio\ de\ la\ entrada\r\n\r\n\ @return\ precio\r\n
+numComments=9

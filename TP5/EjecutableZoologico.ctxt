@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=EjecutableZoologico
+comment0.text=\r\n\ Clase\ ejecutable\ que\ prueba\ la\ funcionalidad\ del\ Zool\u00F3gico.\r\n\ Crea\ visitantes\ individuales\ y\ delegaciones,\ y\ muestra\ listados\ y\ recaudaci\u00F3n.\r\n\ \r\n\ Autor\:\ Domingo\ Ybaldo\ Ibalo\ Correa\r\n\ Autor\:\ Gomez\ Selenia\ Agustina\r\n\ Versi\u00F3n\:\ 11/10/2025\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

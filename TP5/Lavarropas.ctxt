@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Lavarropas
+comment0.text=\r\n\ La\ sub\ clase\ Lavarropas\ contiene\ los\ datos\ de\ un\ lava\ ropas\r\n\ \r\n\ @author\ (Lopez\ Eduardo,\ Mauri\ Joan)\ \r\n\ @version\ (18/10/2025)\r\n
+comment1.params=p_marca\ p_precio\ p_stock\ p_programas\ p_kilos\ p_automatico
+comment1.target=Lavarropas(java.lang.String,\ float,\ int,\ int,\ float,\ boolean)
+comment1.text=\r\n\ Lavarropas\ Constructor\r\n\r\n\ @param\ p_marca\ marca\ del\ lavarropas\r\n\ @param\ p_precio\ precio\ del\ lavarropas\r\n\ @param\ p_stock\ stock\r\n\ @param\ p_programas\ cantidad\ de\ programas\ del\ lavarropas\r\n\ @param\ p_kilos\ peso\ en\ kilos\ del\ lavarropas\r\n\ @param\ p_automatico\ si\ es\ autom\u00E1tico\ o\ n\u00F3\r\n
+comment2.params=p_programas
+comment2.target=void\ setProgramas(int)
+comment3.params=p_kilos
+comment3.target=void\ setKilos(float)
+comment4.params=p_automatico
+comment4.target=void\ setAutomatico(boolean)
+comment5.params=
+comment5.target=int\ getProgramas()
+comment6.params=
+comment6.target=float\ getKilos()
+comment7.params=
+comment7.target=boolean\ getAutomatico()
+comment8.params=p_cuotas\ p_interes
+comment8.target=float\ creditoConAdicional(int,\ float)
+comment8.text=\r\n\ M\u00E9todo\ creditoConAdicional\ permite\ conocer\ el\ valor\ total\ del\ lavarropas\ habiendolo\ comprado\ a\ credito\ y\ sumando\ un\ \r\n\ adicional\ por\ ser\ autom\u00E1tico\ o\ n\u00F3.\r\n\r\n\ @param\ p_cuotas\ numero\ de\ cuotas\r\n\ @param\ p_interes\ interes\ de\ cada\ cuota\r\n\ @return\ total\r\n
+comment9.params=
+comment9.target=void\ imprimir()
+comment9.text=\r\n\ M\u00E9todo\ imprimir\ que\ permite\ visualizar\ la\ informacion\ del\ lavarropas\r\n\r\n
+numComments=10

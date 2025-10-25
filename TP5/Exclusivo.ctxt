@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Exclusivo
+comment0.text=\r\n\ La\ sub\ clase\ Exclusivo\ contiene\ los\ datos\ de\ un\ cargo\ del\ tipo\ exclusivo\r\n\ @author(Joan\ Mauri)\r\n\ @author(Eduardo\ L\u00F3pez)\r\n\ @version(22/08/2025)\r\n
+comment1.params=p_nombre\ p_sueldo\ p_anio\ p_horasDeDocencia\ p_horasDeInvestigacion\ p_horasDeExtension
+comment1.target=Exclusivo(java.lang.String,\ double,\ int,\ int,\ int,\ int)
+comment1.text=\r\n\ Exclusivo\ Constructor\r\n\r\n\ @param\ p_nombre\ nombre\ del\ cargo\r\n\ @param\ p_sueldo\ sueldo\ por\ el\ cargo\r\n\ @param\ p_anio\ anio\ del\ cargo\r\n\ @param\ p_horasDeDocencia\ horas\ de\ docencia\r\n\ @param\ p_horasDeInvestigacion\ horas\ de\ investigacion\r\n\ @param\ p_horasDeExtension\ horas\ de\ extension\r\n
+comment2.params=p_horasDeInvestigacion
+comment2.target=void\ setHorasDeInvestigacion(int)
+comment3.params=p_horasDeExtension
+comment3.target=void\ setHorasDeExtension(int)
+comment4.params=
+comment4.target=int\ getHorasDeInvestigacion()
+comment5.params=
+comment5.target=int\ getHorasDeExtension()
+comment6.params=
+comment6.target=void\ mostrarCargo()
+comment6.text=\r\n\ M\u00E9todo\ mostrarCargo\ muestra\ la\ informacion\ del\ cargo\r\n\r\n
+numComments=7

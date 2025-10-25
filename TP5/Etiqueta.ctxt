@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Etiqueta
+comment0.text=\r\n\ La\ clase\ abstracta\ Etiqueta\ contiene\ la\ estructura\ que\ deben\ tener\ las\ clases\ que\ se\ extienden\ de\ ella\r\n\ \r\n\ @author\ (Lopez\ Eduardo,\ Mauri\ Joan)\ \r\n\ @version\ (18/10/2025)\r\n
+comment1.params=p_costo
+comment1.target=Etiqueta(double)
+comment1.text=\r\n\ Etiqueta\ Constructor\ permite\ instanciar\ una\ etiqueta\r\n\r\n\ @param\ p_costo\ costo\ de\ la\ etiqueta\r\n
+comment2.params=p_costo
+comment2.target=void\ setCosto(double)
+comment3.params=
+comment3.target=double\ getCosto()
+comment4.params=q
+comment4.target=double\ precio(int)
+comment4.text=\r\n\ M\u00E9todo\ precio\ permite\ calcular\ el\ precio\ total\ segun\ una\ cantidad\r\n\r\n\ @param\ q\ cantidad\r\n\ @return\ precio\ total\r\n
+comment5.params=
+comment5.target=java.lang.String\ tipo()
+comment5.text=\r\n\ M\u00E9todo\ tipo\ devuelve\ el\ tipo\ de\ la\ etiqueta\r\n\r\n\ @return\ string\ con\ la\ palabra\ del\ tipo\ de\ etiqueta\r\n
+comment6.params=
+comment6.target=java.lang.String\ toString()
+comment6.text=\r\n\ M\u00E9todo\ toString\ devuelve\ informacion\ comun\ a\ todos\ los\ tipos\ de\ etiquetas\r\n\r\n\ @return\ devuelve\ el\ tipo\ de\ etiqueta\ y\ su\ costo\r\n
+numComments=7

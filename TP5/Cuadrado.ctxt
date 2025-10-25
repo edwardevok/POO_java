@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Cuadrado
+comment0.text=\r\n\ La\ clase\ Cuadrado\ contiene\ el\ lado\ de\ un\ rectangulo.\ Se\ trata\ de\ un\ caso\ especial\ de\ un\ Rectangulo\r\n\ \r\n\ @author\ (Eduardo\ Lopez)\ \r\n\ @author(Joan\ Mauri)\r\n\ @version\ (19/10/2025)\r\n
+comment1.params=p_origen\ p_lado
+comment1.target=Cuadrado(Punto,\ double)
+comment1.text=\r\n\ Cuadrado\ Constructor\ permite\ instanciar\ Cuadrados\r\n\r\n\ @param\ p_origen\ ubicacion\ en\ el\ eje\ x\ e\ y\r\n\ @param\ p_lado\ lado\ del\ cuadrado\r\n
+comment2.params=p_lado
+comment2.target=void\ setLado(double)
+comment3.params=
+comment3.target=double\ getLado()
+comment4.params=
+comment4.target=java.lang.String\ nombreFigura()
+comment4.text=\r\n\ M\u00E9todo\ nombreFigura\ indica\ el\ nombre\ de\ la\ figura\r\n\r\n\ @return\ string\ con\ cuadrado\r\n
+comment5.params=
+comment5.target=double\ superficie()
+comment5.text=\r\n\ M\u00E9todo\ superficie\ calcula\ la\ superficie\ de\ un\ cuadrado\r\n\r\n\ @return\ superficie\r\n
+comment6.params=
+comment6.target=void\ caracteristicas()
+comment6.text=\r\n\ M\u00E9todo\ caracteristicas\ muestra\ todas\ las\ caracteristicas\ de\ un\ cuadrado\r\n\r\n
+numComments=7

@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Premium
+comment0.text=\r\n\ La\ clase\ Premium\ contiene\ el\ color\ de\ la\ etiqueta\ premium\r\n\ @author(Joan\ Mauri,\ Lopez\ Eduardo)\r\n\ @version(10/10/2025)\r\n
+comment1.params=p_costo\ p_colores
+comment1.target=Premium(double,\ int)
+comment1.text=\r\n\ Premium\ Constructor\:\ permite\ instanciar\ una\ etiqueta\ del\ tipo\ premium\r\n\r\n\ @param\ p_costo\ es\ el\ costo\ de\ la\ etiqueta\r\n\ @param\ p_colores\ es\ la\ cantidad\ de\ colores\r\n
+comment2.params=p_colores
+comment2.target=void\ setColores(int)
+comment3.params=
+comment3.target=int\ getColores()
+comment4.params=
+comment4.target=double\ adicional()
+comment4.text=\r\n\ M\u00E9todo\ adicional\ que\ retorna\ el\ valor\ adicional\ que\ se\ suma\ al\ precio\ segun\ la\ cantidad\ de\ colores\ que\ tenga\ la\ etiqueta\r\n\r\n\ @return\ valor\ adicional\ que\ segun\ el\ numero\ de\ colores\r\n
+comment5.params=
+comment5.target=java.lang.String\ tipo()
+comment5.text=\r\n\ M\u00E9todo\ tipo\ que\ devuelve\ un\ string\ con\ el\ tipo\ de\ etiqueta\r\n\r\n\ @return\ "premium"\r\n
+comment6.params=q
+comment6.target=double\ precio(int)
+comment6.text=\r\n\ M\u00E9todo\ precio\ que\ devuelve\ el\ precio\ total\ de\ las\ etiquetas\ multiplicando\ por\ la\ cantidad\r\n\r\n\ @param\ q\ cantidad\ de\ etiquetas\r\n\ @return\ costo\ total\ de\ la\ etiqueta\r\n
+comment7.params=
+comment7.target=java.lang.String\ toString()
+numComments=8

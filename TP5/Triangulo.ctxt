@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Triangulo
+comment0.text=\r\n\ La\ clase\ trinagulo\ contiene\ los\ datos\ de\ un\ triangulo\ como\ su\ base\ y\ altura\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=p_origen\ p_base\ p_altura
+comment1.target=Triangulo(Punto,\ double,\ double)
+comment1.text=\r\n\ Triangulo\ Constructor\ que\ permite\ instanciar\ triangulos\r\n\r\n\ @param\ p_origen\ ubicacion\ del\ triangulo\ en\ un\ eje\ x\ e\ y\r\n\ @param\ p_base\ base\ del\ triangulo\r\n\ @param\ p_altura\ altura\ del\ triangulo\r\n
+comment2.params=p_base
+comment2.target=void\ setBase(double)
+comment3.params=p_altura
+comment3.target=void\ setAltura(double)
+comment4.params=
+comment4.target=double\ getBase()
+comment5.params=
+comment5.target=double\ getAltura()
+comment6.params=
+comment6.target=double\ superficie()
+comment6.text=\r\n\ M\u00E9todo\ superficie\ calcula\ la\ superficie\ de\ un\ triangulo\r\n\r\n\ @return\ superficie\r\n
+comment7.params=
+comment7.target=java.lang.String\ nombreFigura()
+comment7.text=\r\n\ M\u00E9todo\ nombreFigura\ devuelve\ el\ nombre\ de\ la\ figura\r\n\r\n\ @return\ string\ con\ el\ nombre\ de\ la\ figura\r\n
+numComments=8
