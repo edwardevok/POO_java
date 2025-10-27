@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Campeonato
+comment1.params=p_nombre\ p_equipos
+comment1.target=Campeonato(java.lang.String,\ java.util.HashSet)
+comment2.params=p_nombre\ p_equipo
+comment2.target=Campeonato(java.lang.String,\ Equipo)
+comment3.params=p_nombre
+comment3.target=void\ setNombre(java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ getNombre()
+comment5.params=p_equipos
+comment5.target=void\ setEquipos(java.util.HashSet)
+comment6.params=
+comment6.target=java.util.HashSet\ getEquipos()
+comment7.params=p_equipo
+comment7.target=boolean\ agregarEquipo(Equipo)
+comment8.params=p_equipo
+comment8.target=boolean\ quitarEquipo(Equipo)
+comment9.params=
+comment9.target=void\ determinarGanador()
+numComments=10
