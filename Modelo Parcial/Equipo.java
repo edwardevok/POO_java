@@ -64,7 +64,7 @@ public class Equipo
     
     public void listarEquipo(){
         for(Atleta unAtleta : this.getAtletas().values()){
-            unAtleta.mostrarDatos();
+            System.out.println(unAtleta.mostrarDatos());
         }
     }
     

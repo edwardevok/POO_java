@@ -50,7 +50,7 @@ public class Campeonato
         double comparador = 0.0;
         Equipo elGanador = null;
         for(Equipo unEquipo : this.getEquipos()){
-            if(comparador > unEquipo.totalKilos()){
+            if(comparador < unEquipo.totalKilos()){
                 comparador = unEquipo.totalKilos();
                 elGanador = unEquipo;
             }
@@ -58,6 +58,8 @@ public class Campeonato
         
         System.out.println("El ganador del torneo llamado " + this.getNombre() + "es.......");
         System.out.println("*********** " + elGanador.getNombre() + "**************");
+        System.out.println("Ahora vamos a mostrar todos sus integrantes!!");
+        elGanador.mostrar();
     }
     
     
